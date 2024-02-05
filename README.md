@@ -1,5 +1,5 @@
 # 🌟 Deep Learning -- AI 🌟
-
+---
 Hello, world! I'm embarking in the realm of **Deep Learning**, focusing on the vast universe of **IoT and Sensor Data Analytics**. This journey is all about discovery, innovation, and fun, and I'm thrilled to share my learning path with you. Let's dive into what I'm going to master in this vibrant course!
 
 ## 🚀 What I'm Going to Learn
@@ -44,8 +44,6 @@ I aim to emerge from this course not just with theoretical knowledge but with pr
 Let's explore the endless possibilities together!
 
 ---
-
-**"Shaping tomorrow, one inspired commit at a time."**
 
        ███████╗██╗██╗░░░██╗       
        ██╔════╝██║██║░░░██║       
