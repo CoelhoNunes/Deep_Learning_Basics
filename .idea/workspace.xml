@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bf56b84-85a3-4dd3-aa96-783cf8f128ef" name="Changes" comment="ASSIGNMENT">
-      <change beforePath="$PROJECT_DIR$/.idea/Deep_Learning_Spring_2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Deep_Learning_Spring_2024.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6bf56b84-85a3-4dd3-aa96-783cf8f128ef" name="Changes" comment="New homework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_4_Transfer_Learning_MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_4_Transfer_Learning_MNIST.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -95,6 +97,7 @@
       <workItem from="1707149629543" duration="1065000" />
       <workItem from="1707244330398" duration="2069000" />
       <workItem from="1707246522016" duration="985000" />
+      <workItem from="1707248991836" duration="2774000" />
     </task>
     <task id="LOCAL-00001" summary="Homework #3 update">
       <option name="closed" value="true" />
@@ -128,16 +131,36 @@
       <option name="project" value="LOCAL" />
       <updated>1707247180054</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New homework">
+      <option name="closed" value="true" />
+      <created>1707249024478</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707249024478</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework #3 update" />
     <MESSAGE value="All homework updated" />
     <MESSAGE value="All homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="All homework" />
+    <MESSAGE value="New homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="New homework" />
   </component>
 </project>
