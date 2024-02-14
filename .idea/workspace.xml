@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bf56b84-85a3-4dd3-aa96-783cf8f128ef" name="Changes" comment="New homework">
+    <list default="true" id="6bf56b84-85a3-4dd3-aa96-783cf8f128ef" name="Changes" comment="New homework added">
+      <change afterPath="$PROJECT_DIR$/Assignment5_Stock Price Prediction Using RNNs.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google_Stock_Price_Test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google_Stock_Price_Train.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment_4_Transfer_Learning_MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_4_Transfer_Learning_MNIST.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -97,7 +105,10 @@
       <workItem from="1707149629543" duration="1065000" />
       <workItem from="1707244330398" duration="2069000" />
       <workItem from="1707246522016" duration="985000" />
-      <workItem from="1707248991836" duration="2774000" />
+      <workItem from="1707248991836" duration="3392000" />
+      <workItem from="1707320536699" duration="618000" />
+      <workItem from="1707410662217" duration="144000" />
+      <workItem from="1707929534486" duration="1029000" />
     </task>
     <task id="LOCAL-00001" summary="Homework #3 update">
       <option name="closed" value="true" />
@@ -139,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707249024478</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New homework added">
+      <option name="closed" value="true" />
+      <created>1707261745830</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707261745830</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +180,7 @@
     <MESSAGE value="All homework updated" />
     <MESSAGE value="All homework" />
     <MESSAGE value="New homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="New homework" />
+    <MESSAGE value="New homework added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New homework added" />
   </component>
 </project>
