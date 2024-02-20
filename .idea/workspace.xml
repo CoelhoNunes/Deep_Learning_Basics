@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bf56b84-85a3-4dd3-aa96-783cf8f128ef" name="Changes" comment="New homework added">
-      <change afterPath="$PROJECT_DIR$/Assignment5_Stock Price Prediction Using RNNs.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Google_Stock_Price_Test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Google_Stock_Price_Train.csv" afterDir="false" />
+    <list default="true" id="6bf56b84-85a3-4dd3-aa96-783cf8f128ef" name="Changes" comment="Module 5 Deep Learning">
+      <change afterPath="$PROJECT_DIR$/Assignment_6_ImageCompression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +106,9 @@
       <workItem from="1707248991836" duration="3392000" />
       <workItem from="1707320536699" duration="618000" />
       <workItem from="1707410662217" duration="144000" />
-      <workItem from="1707929534486" duration="1029000" />
+      <workItem from="1707929534486" duration="2868000" />
+      <workItem from="1708014787320" duration="409000" />
+      <workItem from="1708449829684" duration="7899000" />
     </task>
     <task id="LOCAL-00001" summary="Homework #3 update">
       <option name="closed" value="true" />
@@ -158,7 +158,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707261745830</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Module 5 Deep Learning">
+      <option name="closed" value="true" />
+      <created>1707932139168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707932139168</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Module 5 Deep Learning">
+      <option name="closed" value="true" />
+      <created>1707932211987</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707932211987</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +197,8 @@
     <MESSAGE value="All homework" />
     <MESSAGE value="New homework" />
     <MESSAGE value="New homework added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New homework added" />
+    <MESSAGE value="Module 5 - Deep Learning" />
+    <MESSAGE value="Module 5 Deep Learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 5 Deep Learning" />
   </component>
 </project>
