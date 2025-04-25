@@ -1,16 +1,16 @@
 # 🌟 Deep Learning -- AI 🌟
 ---
-Hello, world! I have embarked in the realm of **Deep Learning**, focusing on the vast universe of **IoT and Sensor Data Analytics**. This journey is all about discovery, innovation, and fun, and I'm thrilled to share my learning path with you. Let's dive into what I'm going to master in this vibrant course!
+I have embarked in the realm of **Deep Learning**, focusing on the vast universe of **IoT and Sensor Data Analytics**. This journey is all about discovery, innovation, and fun, and I'm thrilled to share my learning path with you. Let's dive into what I'm going to master in this vibrant course!
 
 ## 🚀 What I'm Going to Learn
 
-In this course, I'm going to dive deep into the application of deep learning techniques and algorithms on both structured and unstructured data from sensors and IoT devices. I'll be exploring how to classify images from IoT devices using convolutional neural networks (CNN), analyze sensor data with deep neural networks (DNN), and unravel the mysteries of sequential/time series data using recurrent neural networks (RNN).
+This is a dive deep into the application of deep learning techniques and algorithms on both structured and unstructured data from sensors and IoT devices. I'll be exploring how to classify images from IoT devices using convolutional neural networks (CNN), analyze sensor data with deep neural networks (DNN), and unravel the mysteries of sequential/time series data using recurrent neural networks (RNN).
 
 I'll leverage popular open-source and commercial deep learning frameworks to build models and make predictions using extensive sensor and IoT datasets. It's going to be a hands-on experience filled with practical examples and engaging projects that bring theoretical concepts to life.
 
 ## My Learning Objectives
 
-By the end of this course, I will:
+By the end of this project, I will:
 
 - Master the fundamentals of sensor and IoT analytics using Deep Learning.
 - Dive deep into IoT deep learning architecture and networks.
