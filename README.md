@@ -1,6 +1,6 @@
 # 🌟 Deep Learning -- AI 🌟
 ---
-Hello, world! I'm embarking in the realm of **Deep Learning**, focusing on the vast universe of **IoT and Sensor Data Analytics**. This journey is all about discovery, innovation, and fun, and I'm thrilled to share my learning path with you. Let's dive into what I'm going to master in this vibrant course!
+Hello, world! I have embarked in the realm of **Deep Learning**, focusing on the vast universe of **IoT and Sensor Data Analytics**. This journey is all about discovery, innovation, and fun, and I'm thrilled to share my learning path with you. Let's dive into what I'm going to master in this vibrant course!
 
 ## 🚀 What I'm Going to Learn
 
@@ -22,7 +22,7 @@ By the end of this course, I will:
 - Develop, validate, and visualize models and predictions using large sensor datasets.
 - Harness the power of TensorFlow and Keras to develop and optimize networks, and visualize results.
 
-## 📘 Topics I'm Excited About
+## Topics I'm Excited About
 
 - **Introduction to Sensor & IoT Large Dataset**
 - **Deep Learning Libraries** - TensorFlow, Keras
